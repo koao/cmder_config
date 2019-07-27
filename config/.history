@@ -1,0 +1,28 @@
+$ cp C:\Users\user\Desktop\cmder-powerline-prompt-master*.lua %cmder_root%\config\
+cp C:\Users\user\Desktop\cmder-powerline-prompt-master*.lua %cmder_root%\config\
+cd C:\Users\user\Desktop\cmder-powerline-prompt-master
+cp *.lua %cmder_root%\config\
+cd
+cd home
+cd c
+cd c;
+cd c:
+cd ../../../../
+ls
+scoop install ^     sudo ^     bat ^     fd ^     7zip ^     fzf ^     less ^     ripgrep ^     make
+scoop
+scoop
+scoop install ^     sudo ^     bat ^     fd ^     7zip ^     fzf ^     less ^     ripgrep ^     make
+cd c
+cd c;
+cd ../../../../
+scoop install ^     sudo ^     bat ^     fd ^     7zip ^     fzf ^     less ^     ripgrep ^     make
+scoop
+scoop
+scoop install ^     sudo ^     bat ^     fd ^     7zip ^     fzf ^     less ^     ripgrep ^     make
+docker
+cd c:
+cd ../
+cd C:\WINDOWS\system32
+ls
+docker ps
